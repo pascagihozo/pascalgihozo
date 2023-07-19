@@ -58,11 +58,16 @@ const Contact = () => {
                                 rows="5"
                                 type="text"
                                 name="message"
-                                value={form.name}
+                                value={form.message}
                                 onChange={handleChange}
                                 placeholder="Please type your message here"
                                 className="bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outlined-none border-none font-medium" />
                           </lable>
+                          <button
+                                type="submit"
+                                className="bg=tertiary py-3 px-8 outline-none w-fit text-white font-bold shadow-md shadow-primary rounded-xl">
+                                  Send
+                                </button>
                         </form>
                 </motion.div>
     </div>

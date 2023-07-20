@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 import {styles} from '../styles';
 import {navLinks} from '../constants';
-import {logo, menu, close} from '../assets';
+import {logo, menu, close, jobit} from '../assets';
 
 const Navbar = () => {
   const [active, setActive]= useState('');
@@ -19,8 +19,8 @@ const Navbar = () => {
             SecurityPolicyViolationEvent("");
             window.scrollTo(0,0);
           }}  >
-            <img src={logo} alt="logo" className="w-9 h-9 object-contain"/>
-            <p className="text-white text-[18px] font-bold cursor-pointer flex">Pascal &nbsp;<span className="sm:block hidden">| Software Developer</span>
+            {/* <img src={logo} alt="logo" className="w-9 h-9 object-contain"/> */}
+            <p className="text-white text-[18px] font-bold cursor-pointer flex">Pascal GIHOZO &nbsp;<span className="sm:block hidden">| Software Developer</span>
             </p>
 
           </Link>

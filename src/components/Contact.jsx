@@ -19,18 +19,12 @@ const Contact = () => {
   const [loading, setLoading] = useState(false);
 
   const handleChange = (e) => {
-    const {mame, value} =e.target;
+    const {name, value} =e.target;
     setForm({...form, [name]: value})
   }
 
   const handleSubmit =(e) => {
-// 
- 
-// 
 
-// 
-
-// service_q68evdr
         emailjs.send(`service_q68evdr`, "template_wktz1vy",
         {
           from_name: form.name,

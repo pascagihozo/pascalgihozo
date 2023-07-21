@@ -46,9 +46,12 @@ const About = () => {
    variants={fadeIn("", "", 0.1, 1)}
    className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
 
-    Enchante! <br/>
-    I am Pascal Gihozo, An Aspiring Software Developer. Please checkout my projectS on this platform
-    I specialize in Python and JavaScript
+   
+    Greetings,<br/>
+
+I am Pascal Gihozo, an aspiring Software Developer, excited to present my portfolio. Here, you can explore my projects, with a particular focus on my expertise in Python and JavaScript.<br/>
+
+As a Web Developer, I am dedicated to crafting engaging and innovative web solutions that deliver exceptional user experiences. Please take a moment to peruse my showcased works and witness my passion for creating impactful digital experiences.
 
    </motion.p>
    <div className="mt-20 flex flex-wrap gap-10">

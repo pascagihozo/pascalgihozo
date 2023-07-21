@@ -13,8 +13,9 @@ const Hero = () => {
         <div className="w-1 sm:h-80 h-40 violet-gradient"/>
         </div>
       <div>
-        <h1 className={`${styles.heroHeadText} text-white`}> Hi, I am <span className="text-[#915eff]"> Pascal </span></h1>
-        <p className={`${styles.heroSubText} mt-2 text-white-100`}>I am an Aspiring Software Developer,<br className="sm:block hidden"/> I have 6 months of professional experience in IT Support, and 6 months of Professional experience in Graphic Design
+        <h1 className={`${styles.heroHeadText} text-white`}> Hello, I am <span className="text-[#915eff]"> Pascal </span></h1>
+        <p className={`${styles.heroSubText} mt-2 text-white-100`}>A dedicated software developer,<br className="sm:block hidden"/> with a passion for creating cutting-edge solutions. With a strong background in Computer Science and hands-on experience in Django, Python, React.js, and databases, 
+        I'm eager to collaborate on impactful projects. Let's build something extraordinary together!
         </p>
       
       </div>

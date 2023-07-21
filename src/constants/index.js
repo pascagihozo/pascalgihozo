@@ -167,10 +167,13 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Dec 2021 - Mar 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Collaborated closely with kitchen staff to develop and implement strategies for more efficient production, contributing to a notable 20% increase in productivity and a reduction in food costs.",
+      "Monitored kitchen waste data for Victoria Beachcomber Resorts & Spa Hotel over a four-month period, our team achieving 3rd position and 88% performance ranking in all Mauritian hotels",
+      "Conducted data monitoring as a part-time Data Monitoring worker at Beachcomber Resorts & Spa Hotel, overseeing waste management in collaboration with the food and safety departments",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Employed Microsoft Excel to create and manage detailed spreadsheets, recording and organizing waste data efficiently.",
+      "emonstrated a strong understanding of Microsoft Excel and data analysis techniques, contributing to the hotel's sustainable initiatives and resource efficiency.",
+      "Conducted comprehensive data analysis to determine the average food waste per product, leading to data-driven recommendations that resulted in a 15% reduction in overall waste.",
     ],
   },
   {

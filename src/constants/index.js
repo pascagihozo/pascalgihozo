@@ -125,7 +125,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "March 2023 - Present",
     points: [
-      "Developed interactive forms with advanced functionality, utilizing Python and Django to create four interactive forms for LC Abelheim with conditional statements, enhancing user experience and data accuracy.",
+      "Developed interactive forms with advanced functionality, utilizing JavaScript and Adobe Acrobat to create four interactive forms for LC Abelheim with conditional statements, enhancing user experience and data accuracy.",
       "Designed customized Odoo invoice templates for various companies, leveraging Python and Django to align the templates with individual branding and operational requirements.",
       "Efficiently managed Odoo databases for Heimdall Ltd., applying database management skills to set up databases, configure modules, and ensure smooth system functionality.",
       "Maintained and enhanced WordPress websites, using HTML, CSS, and JavaScript to update website content, implement design changes, resolve technical issues, and integrate new features.",

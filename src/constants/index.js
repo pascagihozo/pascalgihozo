@@ -257,7 +257,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/pascagihozo/to_do_app",
   },
   {
     name: "Island Salt Mauritius",
@@ -321,7 +321,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/pascagihozo/wdt-safari_solve",
   },
   {
     name: "Valley Nuts",
